@@ -58,7 +58,10 @@ Verkefni sett fyrir í fyrirlestri mánudaginn 23. september 2019.
 
 Skila skal undir „Verkefni og hlutaprófa“ á Uglu í seinasta lagi fyrir lok dags þriðjudaginn 1. október 2019.
 
-Skilaboð skulu innihalda slóð á GitHub repo fyrir verkefni, og dæmatímakennurum skal hafa verið boðið í repo ([sjá leiðbeiningar](https://help.github.com/articles/inviting-collaborators-to-a-personal-repository/)). Notendanöfn þeirra eru `OlafurjonHI`.
+Skilaboð skulu innihalda: 
+* slóð á GitHub repo fyrir verkefni þar sem dæmatímakennurum skal hafa verið boðið í repo ([sjá leiðbeiningar](https://help.github.com/articles/inviting-collaborators-to-a-personal-repository/)). Notendanöfn þeirra eru `anz1e`, `gunnnnii`, `magdadianaa`, `OlafurjonHI` og `Wolfcoder13` .
+* slóð inná heimasvæðið fyrir verkefni.
+* zip skrá með verkefninu.
 
 ## Einkunn
 
