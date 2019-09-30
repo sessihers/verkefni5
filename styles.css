@@ -18,4 +18,60 @@ main {
   margin: 0 auto;
   max-width: 1500px;
   padding: 20px;
+  line-height: 1.25;
+  word-break: break-all;
 }
+
+h2 {
+  font-size: 1.5em;
+  margin-bottom: 1em;
+  line-height: 1;
+}
+
+.cards {
+  justify-content: space-around;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+
+.card:last-child {
+  order: -6;
+} 
+
+.card {
+  border: 2px solid #aaa;
+  border-radius: 5px;
+  background-color: #fff;
+  max-width: 470px;
+  max-height: 320px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  overflow: scroll;
+  padding: 1em;
+  justify-content: flex-start;
+}
+
+.card__body {
+  display: flex;
+}
+
+.card img {
+  max-width: 150px;
+  padding-right: 20px;
+}
+
+.card ul {
+  list-style: none;
+  font-weight: bold;
+  display: flex; 
+  flex-direction: row;
+  flex-wrap: wrap; 
+  margin-top: auto;
+}
+
+.card li {
+  padding: 0 1em 0 0;
+}
+
